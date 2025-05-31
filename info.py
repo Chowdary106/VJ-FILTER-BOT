@@ -170,7 +170,7 @@ URL = environ.get("URL", "https://supporting-tamarah-chowdary106-0bddf39b.koyeb.
 
 
 # Rename Info : If True Then Bot Rename File Else Not
-RENAME_MODE = bool(environ.get('RENAME_MODE', true)) # Set True or False
+RENAME_MODE = bool(environ.get('RENAME_MODE', False)) # Set True or False
 
 
 # Auto Approve Info : If True Then Bot Approve New Upcoming Join Request Else Not
